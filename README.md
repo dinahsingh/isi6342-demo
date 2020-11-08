@@ -24,4 +24,4 @@ Here is a numbered list of tasks to create a GitHub page:
 2. Verify your email
 3. Create a new repository
 4. Pick a template
-5. Start building content! 
+5. Start building content!
