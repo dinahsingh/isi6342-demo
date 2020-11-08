@@ -1,26 +1,27 @@
-## Hello, fellow ISI6342 classmates!
-
+## Hello, fellow classmates!
 # Demo 1
+	This is a test introduction paragraph to see what text will look like with minimal formatting using this particular template. I do not apply any formatting changes to this paragraph. I tested using indentation at the beginning of this paragraph. Hopefully it works. This is an interesting activity which gives us the opportunity to test out using GitHub Pages.
 ## Demo 2
+	This is a **test paragraph** which applies basic formatting to _various text_ to see what happens. I am curious to see how more than one line of code is displayed:
+````
+<!--This is a test to see how this works-->
+<body>
+The content of the document......
+</body>
+````
+Here is a link to the source where i found this code: [HTML Doctype Declaration - W3Schools](https://www.w3schools.com/tags/tag_doctype.asp) <br>And here is the site logo, taken from Wikipedia: ![W3Schools logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/W3Schools_logo.png)
 ### Demo 3
+The final section of this page contains lists. 
+Here is a bulleted list of fruits:
+- apples
+- bananas
+- pears
+- oranges
+- strawberries
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dinahsingh/isi6342-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is a numbered list of tasks to create a GitHub page:
+1. Crate a GitHub account
+2. Verify your email
+3. Create a new repository
+4. Pick a template
+5. Start building content! 
