@@ -1,6 +1,6 @@
 ## Hello, fellow classmates!
 # Demo 1
-	This is a test introduction paragraph to see what text will look like with minimal formatting using this particular template. I do not apply any formatting changes to this paragraph. I tested using indentation at the beginning of this paragraph. Hopefully it works. This is an interesting activity which gives us the opportunity to test out using GitHub Pages.
+This is a test introduction paragraph to see what text will look like with minimal formatting using this particular template. I do not apply any formatting changes to this paragraph. I tested using indentation at the beginning of this paragraph. Hopefully it works. This is an interesting activity which gives us the opportunity to test out using GitHub Pages.
 ## Demo 2
 This is a **test paragraph** which applies basic formatting to _various text_ to see what happens. I am curious to see how more than one line of code is displayed:
 ````
